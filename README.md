@@ -10,5 +10,5 @@
 
 - [ Dokumentasi ](https://youtu.be/gaguOyJWFFo)
 
-- [ Program demo ](http://http://nahrulwijaya.42web.io//)
+- [ Program demo ](http://nahrulwijaya.42web.io)
 
