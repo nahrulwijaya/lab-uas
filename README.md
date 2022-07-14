@@ -4,11 +4,11 @@
 
 
 
-##  Aplikasi Sistem Antrian Loket
+##  Aplikasi Sistem Iuran kas Rt
 
 ##  Tautan
 
-- [ Dokumentasi ](https://youtu.be/gaguOyJWFFo)
+- [ Dokumentasi ](https://youtu.be/qfL1wnOdjfg)
 
 - [ Program demo ](http://nahrulwijaya.42web.io)
 
